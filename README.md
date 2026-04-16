@@ -23,7 +23,7 @@ blur-classifier
 - notebook.ipynb      # Training notebook
 
 ## How it works
-1. Upload one or more JPEG photos
+1. Upload a zip file with your jpeg photos in it
 2. The model classifies each photo using a fine-tuned ResNet18
 3. Download a zip file with three folders: sharp/, defocused_blurred/, motion_blurred/
 
