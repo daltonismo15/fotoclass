@@ -17,9 +17,9 @@ Upload your photos and download a zip file with the images already sorted into t
 - Framework: fastai
 
 ## Project Structure
-blur-classifier/
-├── app.py              # Gradio web app
-├── requirements.txt    # Dependencies
+blur-classifier //
+├── app.py              # Gradio web app //
+├── requirements.txt    # Dependencies //
 └── notebook.ipynb      # Training notebook
 
 ## How it works
